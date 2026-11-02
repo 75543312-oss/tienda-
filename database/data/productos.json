@@ -1,0 +1,251 @@
+[
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000001"
+    },
+    "codigo": "7501234500011",
+    "nombre": "Laptop IdeaPad Slim 3 15\"",
+    "marca": "Lenovo",
+    "categoria": "laptop",
+    "precio": 2599.0,
+    "stock": 12,
+    "especificaciones": {
+      "procesador": "AMD Ryzen 5 7520U",
+      "ramGB": 8,
+      "almacenamiento": "512 GB SSD",
+      "pantallaPulg": 15.6
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000001"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000002"
+    },
+    "codigo": "7501234500028",
+    "nombre": "Laptop VivoBook 15",
+    "marca": "ASUS",
+    "categoria": "laptop",
+    "precio": 2299.0,
+    "stock": 3,
+    "especificaciones": {
+      "procesador": "Intel Core i5-1235U",
+      "ramGB": 8,
+      "almacenamiento": "512 GB SSD",
+      "pantallaPulg": 15.6
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000002"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000003"
+    },
+    "codigo": "7501234500035",
+    "nombre": "Laptop Victus 15 Gamer",
+    "marca": "HP",
+    "categoria": "laptop",
+    "precio": 4199.0,
+    "stock": 6,
+    "especificaciones": {
+      "procesador": "Intel Core i5-12450H",
+      "ramGB": 16,
+      "almacenamiento": "512 GB SSD",
+      "pantallaPulg": 15.6
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000003"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000004"
+    },
+    "codigo": "7501234500042",
+    "nombre": "PC Gamer Ryzen 7 RTX 4060",
+    "marca": "Armada",
+    "categoria": "desktop",
+    "precio": 5499.0,
+    "stock": 4,
+    "especificaciones": {
+      "procesador": "AMD Ryzen 7 5700X",
+      "ramGB": 32,
+      "almacenamiento": "1 TB SSD"
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000001"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000005"
+    },
+    "codigo": "7501234500059",
+    "nombre": "Monitor 24\" FHD 75Hz",
+    "marca": "LG",
+    "categoria": "monitor",
+    "precio": 549.0,
+    "stock": 20,
+    "especificaciones": {
+      "pantallaPulg": 24
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000002"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000006"
+    },
+    "codigo": "7501234500066",
+    "nombre": "Monitor 27\" Odyssey G5",
+    "marca": "Samsung",
+    "categoria": "monitor",
+    "precio": 1199.0,
+    "stock": 2,
+    "especificaciones": {
+      "pantallaPulg": 27
+    },
+    "proveedor": {
+      "$oid": "aaa000000000000000000003"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000007"
+    },
+    "codigo": "7501234500073",
+    "nombre": "Memoria RAM 16GB DDR4 3200",
+    "marca": "Kingston",
+    "categoria": "componente",
+    "precio": 189.0,
+    "stock": 30,
+    "proveedor": {
+      "$oid": "aaa000000000000000000001"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000008"
+    },
+    "codigo": "7501234500080",
+    "nombre": "SSD NVMe 1TB 970 EVO Plus",
+    "marca": "Samsung",
+    "categoria": "componente",
+    "precio": 349.0,
+    "stock": 15,
+    "proveedor": {
+      "$oid": "aaa000000000000000000002"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb000000000000000000009"
+    },
+    "codigo": "7501234500097",
+    "nombre": "Teclado Mecánico G413",
+    "marca": "Logitech",
+    "categoria": "periferico",
+    "precio": 259.0,
+    "stock": 10,
+    "proveedor": {
+      "$oid": "aaa000000000000000000003"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb00000000000000000000a"
+    },
+    "codigo": "7501234500103",
+    "nombre": "Mouse inalámbrico M185",
+    "marca": "Logitech",
+    "categoria": "periferico",
+    "precio": 49.0,
+    "stock": 40,
+    "proveedor": {
+      "$oid": "aaa000000000000000000002"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbb00000000000000000000b"
+    },
+    "codigo": "7501234500110",
+    "nombre": "Mochila para laptop 15.6\"",
+    "marca": "Targus",
+    "categoria": "accesorio",
+    "precio": 129.0,
+    "stock": 1,
+    "proveedor": {
+      "$oid": "aaa000000000000000000001"
+    },
+    "createdAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-05T10:00:00Z"
+    }
+  }
+]

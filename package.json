@@ -1,0 +1,21 @@
+{
+  "name": "tienda-computadoras-mongodb",
+  "version": "1.0.0",
+  "description": "API REST y base de datos MongoDB para la facturación de una tienda de computadoras",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node database/seed.js"
+  },
+  "keywords": ["mongodb", "mongoose", "express", "facturacion", "computadoras"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.0"
+  }
+}

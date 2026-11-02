@@ -1,0 +1,346 @@
+[
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000001"
+    },
+    "tipoComprobante": "BOLETA",
+    "numero": "B001-000001",
+    "fecha": {
+      "$date": "2026-09-12T15:30:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000001"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000001"
+        },
+        "nombre": "Laptop IdeaPad Slim 3 15\"",
+        "precioUnitario": 2599.0,
+        "cantidad": 1,
+        "subtotal": 2599.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb00000000000000000000a"
+        },
+        "nombre": "Mouse inalámbrico M185",
+        "precioUnitario": 49.0,
+        "cantidad": 1,
+        "subtotal": 49.0
+      }
+    ],
+    "subtotal": 2244.07,
+    "igv": 403.93,
+    "total": 2648.0,
+    "metodoPago": "TARJETA",
+    "createdAt": {
+      "$date": "2026-09-12T15:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-12T15:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000002"
+    },
+    "tipoComprobante": "FACTURA",
+    "numero": "F001-000001",
+    "fecha": {
+      "$date": "2026-09-18T10:10:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000003"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000004"
+        },
+        "nombre": "PC Gamer Ryzen 7 RTX 4060",
+        "precioUnitario": 5499.0,
+        "cantidad": 2,
+        "subtotal": 10998.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000005"
+        },
+        "nombre": "Monitor 24\" FHD 75Hz",
+        "precioUnitario": 549.0,
+        "cantidad": 2,
+        "subtotal": 1098.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000009"
+        },
+        "nombre": "Teclado Mecánico G413",
+        "precioUnitario": 259.0,
+        "cantidad": 2,
+        "subtotal": 518.0
+      }
+    ],
+    "subtotal": 10689.83,
+    "igv": 1924.17,
+    "total": 12614.0,
+    "metodoPago": "TRANSFERENCIA",
+    "createdAt": {
+      "$date": "2026-09-18T10:10:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-18T10:10:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000003"
+    },
+    "tipoComprobante": "BOLETA",
+    "numero": "B001-000002",
+    "fecha": {
+      "$date": "2026-09-25T18:45:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000002"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000007"
+        },
+        "nombre": "Memoria RAM 16GB DDR4 3200",
+        "precioUnitario": 189.0,
+        "cantidad": 2,
+        "subtotal": 378.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000008"
+        },
+        "nombre": "SSD NVMe 1TB 970 EVO Plus",
+        "precioUnitario": 349.0,
+        "cantidad": 1,
+        "subtotal": 349.0
+      }
+    ],
+    "subtotal": 616.1,
+    "igv": 110.9,
+    "total": 727.0,
+    "metodoPago": "YAPE",
+    "createdAt": {
+      "$date": "2026-09-25T18:45:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-25T18:45:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000004"
+    },
+    "tipoComprobante": "FACTURA",
+    "numero": "F001-000002",
+    "fecha": {
+      "$date": "2026-10-03T11:20:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000004"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000003"
+        },
+        "nombre": "Laptop Victus 15 Gamer",
+        "precioUnitario": 4199.0,
+        "cantidad": 1,
+        "subtotal": 4199.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb00000000000000000000a"
+        },
+        "nombre": "Mouse inalámbrico M185",
+        "precioUnitario": 49.0,
+        "cantidad": 1,
+        "subtotal": 49.0
+      }
+    ],
+    "subtotal": 3600.0,
+    "igv": 648.0,
+    "total": 4248.0,
+    "metodoPago": "TARJETA",
+    "createdAt": {
+      "$date": "2026-10-03T11:20:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-03T11:20:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000005"
+    },
+    "tipoComprobante": "BOLETA",
+    "numero": "B001-000003",
+    "fecha": {
+      "$date": "2026-10-09T16:00:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000005"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000005"
+        },
+        "nombre": "Monitor 24\" FHD 75Hz",
+        "precioUnitario": 549.0,
+        "cantidad": 1,
+        "subtotal": 549.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb00000000000000000000a"
+        },
+        "nombre": "Mouse inalámbrico M185",
+        "precioUnitario": 49.0,
+        "cantidad": 2,
+        "subtotal": 98.0
+      }
+    ],
+    "subtotal": 548.31,
+    "igv": 98.69,
+    "total": 647.0,
+    "metodoPago": "EFECTIVO",
+    "createdAt": {
+      "$date": "2026-10-09T16:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-09T16:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000006"
+    },
+    "tipoComprobante": "BOLETA",
+    "numero": "B001-000004",
+    "fecha": {
+      "$date": "2026-10-15T12:00:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000001"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000007"
+        },
+        "nombre": "Memoria RAM 16GB DDR4 3200",
+        "precioUnitario": 189.0,
+        "cantidad": 1,
+        "subtotal": 189.0
+      }
+    ],
+    "subtotal": 160.17,
+    "igv": 28.83,
+    "total": 189.0,
+    "metodoPago": "YAPE",
+    "createdAt": {
+      "$date": "2026-10-15T12:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-15T12:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000007"
+    },
+    "tipoComprobante": "FACTURA",
+    "numero": "F001-000003",
+    "fecha": {
+      "$date": "2026-10-22T09:30:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000003"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000001"
+        },
+        "nombre": "Laptop IdeaPad Slim 3 15\"",
+        "precioUnitario": 2599.0,
+        "cantidad": 3,
+        "subtotal": 7797.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb00000000000000000000b"
+        },
+        "nombre": "Mochila para laptop 15.6\"",
+        "precioUnitario": 129.0,
+        "cantidad": 3,
+        "subtotal": 387.0
+      },
+      {
+        "producto": {
+          "$oid": "bbb00000000000000000000a"
+        },
+        "nombre": "Mouse inalámbrico M185",
+        "precioUnitario": 49.0,
+        "cantidad": 3,
+        "subtotal": 147.0
+      }
+    ],
+    "subtotal": 7060.17,
+    "igv": 1270.83,
+    "total": 8331.0,
+    "metodoPago": "TRANSFERENCIA",
+    "createdAt": {
+      "$date": "2026-10-22T09:30:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-22T09:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ddd000000000000000000008"
+    },
+    "tipoComprobante": "BOLETA",
+    "numero": "B001-000005",
+    "fecha": {
+      "$date": "2026-10-28T17:15:00Z"
+    },
+    "cliente": {
+      "$oid": "ccc000000000000000000002"
+    },
+    "items": [
+      {
+        "producto": {
+          "$oid": "bbb000000000000000000006"
+        },
+        "nombre": "Monitor 27\" Odyssey G5",
+        "precioUnitario": 1199.0,
+        "cantidad": 1,
+        "subtotal": 1199.0
+      }
+    ],
+    "subtotal": 1016.1,
+    "igv": 182.9,
+    "total": 1199.0,
+    "metodoPago": "TARJETA",
+    "createdAt": {
+      "$date": "2026-10-28T17:15:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-28T17:15:00Z"
+    }
+  }
+]

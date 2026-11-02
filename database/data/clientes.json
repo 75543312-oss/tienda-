@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "ccc000000000000000000001"
+    },
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "45871236",
+    "nombre": "María Fernanda Quispe Rojas",
+    "email": "maria.quispe@gmail.com",
+    "telefono": "964123456",
+    "createdAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ccc000000000000000000002"
+    },
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "72145698",
+    "nombre": "José Luis Huamán Torres",
+    "email": "jlhuaman@hotmail.com",
+    "telefono": "987654321",
+    "createdAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ccc000000000000000000003"
+    },
+    "tipoDocumento": "RUC",
+    "numeroDocumento": "20601234567",
+    "nombre": "Soluciones Andinas E.I.R.L.",
+    "email": "compras@solucionesandinas.pe",
+    "telefono": "064215478",
+    "createdAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ccc000000000000000000004"
+    },
+    "tipoDocumento": "RUC",
+    "numeroDocumento": "10456789123",
+    "nombre": "Carlos Alberto Ríos Meza",
+    "email": "carlos.rios@outlook.com",
+    "telefono": "945112233",
+    "createdAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ccc000000000000000000005"
+    },
+    "tipoDocumento": "DNI",
+    "numeroDocumento": "70123456",
+    "nombre": "Lucía Paredes Cárdenas",
+    "email": "lucia.paredes@gmail.com",
+    "telefono": "912345678",
+    "createdAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-10T10:00:00Z"
+    }
+  }
+]

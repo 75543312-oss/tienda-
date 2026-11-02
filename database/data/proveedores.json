@@ -1,0 +1,47 @@
+[
+  {
+    "_id": {
+      "$oid": "aaa000000000000000000001"
+    },
+    "ruc": "20100047218",
+    "razonSocial": "Deltron Computer S.A.",
+    "telefono": "014155000",
+    "email": "ventas@deltron.com.pe",
+    "createdAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aaa000000000000000000002"
+    },
+    "ruc": "20504893391",
+    "razonSocial": "Intcomex Perú S.A.C.",
+    "telefono": "016181900",
+    "email": "ventas@intcomex.pe",
+    "createdAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aaa000000000000000000003"
+    },
+    "ruc": "20537521458",
+    "razonSocial": "Ingram Micro Perú S.A.C.",
+    "telefono": "017125000",
+    "email": "pedidos@ingrammicro.pe",
+    "createdAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-01T10:00:00Z"
+    }
+  }
+]
